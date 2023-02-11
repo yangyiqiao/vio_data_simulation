@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 
     double begin = now();
     std::cout << "Start generate data, please waiting..." << std::endl;
-
+    //ok
     // IMU model
     Param params;
     params.t_end = 3600 * 2; // 2 hours
